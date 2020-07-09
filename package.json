@@ -1,0 +1,21 @@
+{
+  "name": "in.concerto.urway.plugins",
+  "version": "1.0.0",
+  "description": "This is demo plugin for urway testing",
+  "cordova": {
+    "id": "in.concerto.urway.plugins",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Concerto",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
